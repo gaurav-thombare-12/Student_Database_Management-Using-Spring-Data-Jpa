@@ -1,0 +1,5 @@
+Run the Spring boot application first using intellij Ide
+now for frontend use vscode
+install live server plugin in vscode
+now on the bottom of vscode on the right side click on Golive
+here you can see the student data on browser.
