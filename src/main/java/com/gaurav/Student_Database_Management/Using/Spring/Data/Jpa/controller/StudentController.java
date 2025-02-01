@@ -8,6 +8,7 @@ import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
 
+@CrossOrigin(origins = "*")  // Allows requests from any origin
 @RestController
 @RequestMapping("api/sdm")
 public class StudentController {
