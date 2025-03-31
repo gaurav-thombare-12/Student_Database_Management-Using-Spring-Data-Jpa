@@ -152,7 +152,7 @@ The application provides CRUD operations for managing student records, such as a
 
 ## Author
 **Gaurav Thombare**  
-- **Email**: [thombaregaurav768@gmail.com](mailto:thombaregaurav768@gmail.com)  
+- **Email**: [gauravthombare121@gmail.com](mailto:gauravthombare121@gmail.com)  
 - **LinkedIn**: [linkedin.com/in/gauravthombare0102](https://www.linkedin.com/in/gauravthombare0102/)  
 
 Feel free to connect for suggestions and improvements!
